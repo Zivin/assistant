@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 1.0.0
 files:
-  - url: 亦九 Setup 0.1.0.exe
-    sha512: leOMKBJlqPs9nOmPE0va7HO4Enm/MTSD8V3qhknonJ6rBhfHncBKXwI6MttrvjPkyKpBYnNQv9UJlbwaROGkMw==
-    size: 38143117
-path: 亦九 Setup 0.1.0.exe
-sha512: leOMKBJlqPs9nOmPE0va7HO4Enm/MTSD8V3qhknonJ6rBhfHncBKXwI6MttrvjPkyKpBYnNQv9UJlbwaROGkMw==
-releaseDate: '2018-10-20T09:15:31.283Z'
+  - url: 亦九 Setup 1.0.0.exe
+    sha512: 5cwSpsD9wmzBMnvzU4McQAZ9DQMtDkwoh0hSJrHMkzAxG/jOrV3m/CNrJpSOpFsoe1EMR/7n008zLp6oYmDTQA==
+    size: 38141814
+path: 亦九 Setup 1.0.0.exe
+sha512: 5cwSpsD9wmzBMnvzU4McQAZ9DQMtDkwoh0hSJrHMkzAxG/jOrV3m/CNrJpSOpFsoe1EMR/7n008zLp6oYmDTQA==
+releaseDate: '2018-12-08T08:07:24.019Z'
